@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-logo="logo" group-title="TES", TESTING
-https://ddh1.cdndac.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://ddh1.cdndac.lol/lb/premium61/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
