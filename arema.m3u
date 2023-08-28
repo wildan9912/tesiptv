@@ -1,3 +1,4 @@
-#EXTINF:-1 tvg-logo="logo" group-title="TES", TESTING
-https://webudit.cdndac.lol/lb/premium32/index.m3u8
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/ 
+#EXTINF:-1 tvg-logo="logo" group-title="grup channel", nama channel
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
