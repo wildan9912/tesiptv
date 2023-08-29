@@ -1,4 +1,4 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx&referrer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-logo="logo" group-title="TES", TESTING
-http://202.147.204.114/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+http://watchlive.my.id/php/gtv.m3u8
