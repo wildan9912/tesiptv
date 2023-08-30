@@ -1,3 +1,2 @@
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",Arema vs Persikabo
-#EXTVLCOPT:http-referrer=https://m.vidio.com/live/6299-bein-1
-https://etslive-2-vidio-com.akamaized.net/drm/hls/6299/master.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="h", A
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
