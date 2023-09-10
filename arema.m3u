@@ -10,3 +10,6 @@ https://ppp3-cf.ddi2ank3.cc/auth%3D5d93d5a4d745840971738393829a35ee6f543e5b67480
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="LIVE EVENT", RCTI+
 http://103.152.118.53:80/play/channels/visyen/hls/rcti-2/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="LIVE EVENT", RCTI CADANGAN
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
