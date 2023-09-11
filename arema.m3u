@@ -16,3 +16,6 @@ http://103.152.118.53:80/play/channels/visyen/hls/rcti-2/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="LIVE EVENT", RCTI CADANGAN
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="LIVE EVENT", RCTI STREAM
+http://103.84.206.91:8989/3958/hls/playlist.m3u8
