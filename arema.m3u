@@ -25,3 +25,6 @@ http://watchlive.my.id/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", sherif vs as roma
 https://webproxifiers.online/playlist/stream_3.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", lask vs liverpoll
+https://webproxifiers.online/playlist/stream_1.m3u8
