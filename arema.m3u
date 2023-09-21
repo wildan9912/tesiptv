@@ -28,3 +28,7 @@ https://webproxifiers.online/playlist/stream_3.m3u8
 
 #EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", lask vs liverpoll
 https://webproxifiers.online/playlist/stream_1.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="lLIVE EVENT", tes
+#EXTVLCOPT:http-referrer=https://www.808thethao3.com/football/2469160-lask-linz-vs-liverpool.html
+https://play2-cf.ddi2ank3.cc/auth%3D9fd60cf1a5439891959253fe7033dc99d6a742de0edb6b85033c59d4c7e27740c6dc34ed116d7627d4e4bfc694e76e48693929ef2eab1c33eb38906ba410f713296e2e53713c1e075d273d9edadda2fb80d7e6bef6da98771c157973162eab83d3e61f936d2e491819e2a47486a7c74ed3574e6277e7dc9bc535380365e73852fe7fda3cd2cd512abc8ba767463be666c84dc8bb45ad32f977b49ef5e1f8c822%26cid%3DwlZ2acNLFuiAw8DPXKQDs230730%26_v%3D2%26_r%3DRBqdO1%26_vis%3D63b7c6552aca31e43ab76f2da70f6e0adf6cc48e902d99ace7c928af693ceb92%26_vvs%3Dc542c307b347f13af8ab6775c59668f128d54599e10a02789576d682af99b885/app/c203918.m3u8
