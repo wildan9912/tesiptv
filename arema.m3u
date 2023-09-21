@@ -17,3 +17,8 @@ https://play2-cf.ddi2ank3.cc/auth%3D7438e000343fe9216f79af21f43c2ac9576f1215123c
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="", coba.
 #EXTVLCOPT:http-referrer=https://www.808thethao3.com/football/2340131-cheonan-city-vs-bucheon-fc-1995.html
 https://ppping-cf.ddi2ank3.cc/auth%3D4b5e3865b4def92add4eeaa17682bdb3a9f488584183d746cecf7d58d74c99669ab263df1d719ab62327c1421b11ed607ed340bc16aa92e3876f6d917b42c4f78ad78b957ecac839ce099025483b6e9e6710b036373f86bcc66f4cbe35c6b8191a1bf2313836d58d23c402550a42b7cce5f2474c4b6972f8e83f69ec13bf004e04d909c38a0a354bd4396d2f7b0d36f8c3982c4d347e8c27fbbc9a3ae84a157861c947655d3b496167690e4766253c4ec68facafa4d10a502b482d36c5b206f5%26cid%3DwlZ2acNLFuiAw8DPXKQDs230730%26_v%3D2%26_r%3D2SDNXs%26_vis%3D5180dea0f51b6ea7c9650413ce0dd182579f2f6a294e1d6da7268bf9053ada8f%26_vvs%3D3134feb1233dbb862bd4c338f938e86c36becad1a2d9a1339bf908ad81dfc38c/app/c203640.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 
+http://watchlive.my.id/sa_dash_vmx/RCTI-DD.mpd
