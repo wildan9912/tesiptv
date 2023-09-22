@@ -32,3 +32,6 @@ https://webproxifiers.online/playlist/stream_1.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="lLIVE EVENT", tes
 #EXTVLCOPT:http-referrer=https://www.808thethao3.com/football/
 https://ppping-cf.ddi2ank3.cc/auth%3D39291ae0a40df27c69377e287d11fbf0b115f1907dbfe01f7eac64c902b15ce8eac0374e366ebcbdb5dfce71f217681d81f8bd07d616fa5f465d4d255844772aff7b8776407e7bb4ae5c4da65002c94e563ba76d36b8d4bf904929c5a62e1a25fc244e0a74e3c3553f2970dcdb8ceee62c36090f8ec2bcb83f215e7eeb87b85eca8cb7a37f03d4d52b70486f5a4a16e46b41e640a009752ff974944884eda6c3%26cid%3DwlZ2acNLFuiAw8DPXKQDs230730%26_v%3D2%26_r%3DkOtSN-%26_vis%3Db64054e6a9b16baf6f9375adc1a5ea43e1c6978e253ba91f4556632a207d2a8f%26_vvs%3D80350f3756263004c6ffd90fdc620bf273e4ff88ef7f7edac2d06e30830f6f8e/app/c204012.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", VIDIO.COM
+https://etslive-2-vidio-com.akamaized.net/exp=1695381843~acl=/hls-p/ingest_205_*/*~hmac=b1b4eee84a370864c9a3b69cb868bd54534cb922d0ded65bd62e5e1d2b9d5179/hls-p/ingest_205_480p/index.m3u8
