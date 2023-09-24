@@ -6,3 +6,6 @@ https://hs3.04lv.com/live/H2013491.m3u8?txSecret=184e98030a8342402c851fe94f33269
 
 #EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", liverpoll
 https://hs3.04lv.com/live/H2013492.m3u8?txSecret=959e9590e3a40af01c4becb6e2edbb9f&txTime=65118094&_s=stream
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", tes12
+http://surl.li/llblt
