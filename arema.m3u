@@ -1,2 +1,5 @@
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="LIVE EVENT", ARESENAL
 https://hs3.04lv.com/live/H2013490.m3u8?txSecret=bf0bf9eafff70c1bdb4a5a99a149eb72&txTime=65118094&_s=stream
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", chelsea
+https://hs3.04lv.com/live/H2013491.m3u8?txSecret=184e98030a8342402c851fe94f332693&txTime=65118094&_s=stream
