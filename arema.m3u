@@ -1,11 +1,14 @@
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 1.LALIGA
+#EXTINF: -1 tvg-logo="logo" group-title="LALIGA", 1.LALIGA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 2.LALIGA
+#EXTINF: -1 tvg-logo="logo" group-title="LALIGA", 2.LALIGA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 3.LALIGA
+#EXTINF: -1 tvg-logo="logo" group-title="LALIGA", 3.LALIGA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 4.LALIGA
+#EXTINF: -1 tvg-logo="logo" group-title="LALIGA", 4.LALIGA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="SERIE A", SERIE A
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
