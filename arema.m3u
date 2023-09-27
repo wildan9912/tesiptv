@@ -1,20 +1,41 @@
-#EXTINF: -1 tvg-logo="https://i.ibb.co/NnyM7GD/20230927-212016.png" group-title="LALIGA", 1.LALIGA
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 1 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/NnyM7GD/20230927-212016.png" group-title="LALIGA", 2.LALIGA
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 2
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/NnyM7GD/20230927-212016.png" group-title="LALIGA", 3.LALIGA
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 3
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/NnyM7GD/20230927-212016.png" group-title="LALIGA", 4.LALIGA
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 4
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/8z4FmTR/20230927-212305.png" group-title="SERIE A", 1.SERIE A
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 5
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 6
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 7
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 9
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 90
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/8z4FmTR/20230927-212305.png" group-title="SERIE A", 2.SERIE A
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 91
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 92
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 93
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/3sfmHHW/20230927-212449.png" group-title="LIGUE 1", LIGUE 1
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 94
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
