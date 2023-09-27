@@ -1,20 +1,2 @@
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="LIVE EVENT", ARESENAL
-https://hs3.04lv.com/live/H2013490.m3u8?txSecret=bf0bf9eafff70c1bdb4a5a99a149eb72&txTime=65118094&_s=stream
-
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", chelsea
-https://hs3.04lv.com/live/H2013491.m3u8?txSecret=184e98030a8342402c851fe94f332693&txTime=65118094&_s=stream
-
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", liverpoll
-https://hs3.04lv.com/live/H2013492.m3u8?txSecret=959e9590e3a40af01c4becb6e2edbb9f&txTime=65118094&_s=stream
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="LIVE EVENT", tes
-#EXTVLCOPT:http-referrer=https://www.808thethao3.com/football/
-https://ppping-cf.ddi2ank3.cc/auth%3D8589c025986f8abe1f42873abfa689bf717add5472dba5138647ee481cfcd4300caa7c3b2800ba7b45dec18da73f80bc3699eec2636bb7d77a180d3b466cdd2b357a57a43e3305bbd9a306b215ebba4fb044532f45caad0883a80201bd29eab3c5b10df2698640e030f52e867c0d0c55159fdb072175ce5ecb42ab968ae3bbacfc104cbad2cc006620a09ac18993573812d242ae2de7d181a2b464921fde12c3%26cid%3DwlZ2acNLFuiAw8DPXKQDs230730%26_v%3D2%26_r%3DHETKyR%26_vis%3D2b1f68e7c2f08da4dcf3855357e242d07839b719000d17b84af9e5714111ba5a%26_vvs%3D6c280a2914f9acc80ac2d6de1f6fea9fd2fe43e69ab24bc1f8f8a518966309a4/app/c204843.m3u8
-
-#EXTINF:-1 group-title="Nama Group" tvg-logo="UrlLogo",Ssc 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
-https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
-
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", sevilla
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=765200.m3u8
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", LALIGA
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
