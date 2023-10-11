@@ -1,1 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="transtv" group-title="Lokal",trans tv
+#EXTVLCOPT:http-user-agent=Isi_User_Agent_Value
+#EXTVLCOPT:http-referrer=Isi_Refferer_Name#tag
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w871506072_b744100_sleng.m3u8
 
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="trans7" group-title="Lokal",trans 7
+#EXTVLCOPT:http-user-agent=Isi_User_Agent_Value
+#EXTVLCOPT:http-referrer=Isi_Refferer_Name#tag
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1149663930_b344100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="cnntv" group-title="Lokal",cnn tv
+#EXTVLCOPT:http-user-agent=Isi_User_Agent_Value
+#EXTVLCOPT:http-referrer=Isi_Refferer_Name#tag
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1447846657_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="20.detik.com" tvg-logo="cnbctv" group-title="Lokal",cnbc tv
+#EXTVLCOPT:http-user-agent=Isi_User_Agent_Value
+#EXTVLCOPT:http-referrer=Isi_Refferer_Name#tag
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w545083888_b192000_sleng.m3u8
