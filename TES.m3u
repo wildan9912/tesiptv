@@ -4,4 +4,5 @@
 https://fhls02.1mv.xyz/by06vppxb/s6/v3a/aHR0cHMlM0ElMkYlMkZlZC1iMDAyLmVkZ2tpbmcubWU=/vv/plyvivo/m05ey0zey0yofogomepa/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://shorturl.at/eitAE" group-title="MAHABHARATA", 
+#EXTVLCOPT:http-referrer=www.vidio.com
 https://token-media-vidio-com.akamaized.net/exp=1702016010~acl=/uploads/2042093/pkg-1692596497/hls/*~hmac=a49e997a622234fb35d22898773e4f67cad8d1a350990a26cf4700e87fbcf43d/uploads/2042093/pkg-1692596497/hls/master.m3u8
