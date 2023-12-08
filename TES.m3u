@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="logo" group-title="tes", moji
-https://etslive-2-vidio-com.akamaized.net/exp=1702015136~acl=/hls-p/ingest_206_*/*~hmac=7110b27a07fddc34b2b81db7f226582c1ba1130487bc6bb8e8889d2465b82b6f/hls-p/ingest_206_480p/index.m3u8
+#EXTINF: -1 tvg-logo="logo" group-title="tes", testing
+#EXTVLCOPT:http-referrer=https://rafe500g.live-streamfootball.cfd/id/football/honduras-primera-division-3879631/genesis-vs-cd-olimpia.html
+https://fhls02.1mv.xyz/by06vppxb/s6/v3a/aHR0cHMlM0ElMkYlMkZlZC1iMDAyLmVkZ2tpbmcubWU=/vv/plyvivo/m05ey0zey0yofogomepa/chunklist.m3u8
