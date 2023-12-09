@@ -1,5 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", SPORTSTAR3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 
+https://etslive-2-vidio-com.akamaized.net/exp=1702131783~acl=/hls-p/ingest_14792_*/*~hmac=d96161a759e0acef793445f0abcd60fdf38b64997d771e2eefbacc4b47286cea/hls-p/ingest_14792_720p/index.m3u8
+
+
